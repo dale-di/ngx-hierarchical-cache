@@ -16,3 +16,5 @@
 \# /purge/ssd/ 刷新ssd缓存。<br>
 \# /purge/hd/ 刷新机械硬盘缓存。<br>
 例如： /purge/ssd/vod/.../abc.ts<br>
+
+## 欢迎QQ沟通：17070631
